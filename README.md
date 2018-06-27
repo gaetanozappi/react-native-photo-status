@@ -9,6 +9,10 @@
 -   [Usage](#usage)
 -   [License](#license)
 
+## 📖 Getting started
+
+`$ npm install react-native-photo-status --save`
+
 ## Usage
 
 ```javascript
