@@ -14,7 +14,7 @@
 ```javascript
 import React, { Component } from 'react';
 import { View } from 'react-native';
-import PhotoStatus from './PhotoStatus';
+import PhotoStatus from 'react-native-photo-status';
 
 export default class App extends Component {
   render() {
