@@ -2,7 +2,7 @@
   "name": "react-native-photo-status",
   "version": "0.0.1",
   "description": "",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/gaetanozappi/react-native-photo-status.git"
   },
