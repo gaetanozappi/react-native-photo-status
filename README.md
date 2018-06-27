@@ -1,7 +1,8 @@
 # React Native: PhotoStatus
 
-[![github home](https://img.shields.io/badge/gaetanozappi-react--native--photo--status-blue.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-photo-status)
-[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-photo-status.svg?style=flat-square)](https://github.com/gaetanozappi/react-native-photo-status/issues)
+[![github home](http://img.shields.io/npm/v/react-native-photo-status.svg?style=flat)](https://www.npmjs.com/package/react-native-photo-status)
+[![github home](https://img.shields.io/badge/gaetanozappi-react--native--photo--status-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-photo-status)
+[![github issues](https://img.shields.io/github/issues/gaetanozappi/react-native-photo-status.svg?style=flat)](https://github.com/gaetanozappi/react-native-photo-status/issues)
 
 ![PNG](screenshot/react-native-photo-status.png)
 
@@ -49,4 +50,4 @@ export default class App extends Component {
 ```
 
 ## License
-The MIT License
+This library is provided under the Apache License.
