@@ -1,4 +1,4 @@
-# React Native: PhotoStatus
+# React Native: react-native-photo-status
 
 [![github home](http://img.shields.io/npm/v/react-native-photo-status.svg?style=flat)](https://www.npmjs.com/package/react-native-photo-status)
 [![github home](https://img.shields.io/badge/gaetanozappi-react--native--photo--status-blue.svg?style=flat)](https://github.com/gaetanozappi/react-native-photo-status)
@@ -52,6 +52,20 @@ export default class App extends Component {
 }
 
 ```
+
+## 💡 Props
+
+| Prop              | Type       | Default | Note                                                                                                       |
+| ----------------- | ---------- | ------- | ---------------------------------------------------------------------------------------------------------- |
+| `color`      | `array`   |  | We need to pass an array of the colors, as in the example.
+| `dim`       | `number`   |    | Circle size.
+| `image`      | `object`   |  | We need to pass an image, as in the example.
+| `isStatus`      | `bool`   |  | Indicates whether to have the status icon.
+| `isIcon`      | `bool`   |  | Indicates whether to have the status icon.
+| `icon`      | `Ionicons`   |  | Indicates what kind of icon to use.
+| `iconSize`      | `number`   |  | Icon size.
+| `iconColor`      | `string`   |  | Icon color.
+| `colorStatus`      | `string`   |  | Indicates the background color of the status.
 
 ## License
 This library is provided under the Apache License.
