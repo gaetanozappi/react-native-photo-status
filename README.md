@@ -12,14 +12,14 @@
 
 ![PNG](screenshot/react-native-photo-status.png)
 
--   [Usage](#usage)
--   [License](#license)
+-   [Usage](#-usage)
+-   [License](#-license)
 
 ## 📖 Getting started
 
 `$ npm install react-native-photo-status --save`
 
-## Usage
+## 💻 Usage
 
 ```javascript
 import React, { Component } from 'react';
@@ -73,5 +73,5 @@ export default class App extends Component {
 | `iconColor`      | `string`   |  | Icon color.
 | `colorStatus`      | `string`   |  | Indicates the background color of the status.
 
-## License
+## 📜 License
 This library is provided under the Apache License.
